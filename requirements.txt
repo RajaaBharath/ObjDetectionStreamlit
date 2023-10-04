@@ -1,0 +1,4 @@
+numpy==1.23.5
+opencv-python==4.5.5.62
+streamlit==1.26.0
+
